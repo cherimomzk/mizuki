@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Test10Class {
 
+
+
+
+
 	public static void main(String[] args) {
 
 		System.out.println("モードを選択してください。1 or 2");
@@ -14,7 +18,7 @@ public class Test10Class {
 
 		System.out.println("生まれた年を西暦で入力してください。");
 
-		Class.umare = str.nextInt();
+		Sub.umare = str.nextInt();
 
 		while (mode != 1) {
 			if (mode != 2) {
