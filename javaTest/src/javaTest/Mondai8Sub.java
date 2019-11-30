@@ -3,7 +3,7 @@ package javaTest;
 public class Mondai8Sub {
 
 	public void keisanA(String a) {
-		
+
 	}
 
 

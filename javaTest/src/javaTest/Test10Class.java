@@ -5,9 +5,6 @@ import java.util.Scanner;
 public class Test10Class {
 
 
-
-
-
 	public static void main(String[] args) {
 
 		System.out.println("モードを選択してください。1 or 2");
